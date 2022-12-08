@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.exemple.WalletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T14:05:39" hostname="iMac-de-orange-6.local" time="0.012">
+  <properties/>
+  <testcase name="test_wallet_created()" classname="org.exemple.WalletTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
